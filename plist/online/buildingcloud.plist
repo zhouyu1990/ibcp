@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://223.105.4.89:18080/ibcp/buildingcloud_ios/buildingcloud.ipa</string>
+                    <string>http://223.105.4.92:18080/ibcp/buildingcloud_ios/buildingcloud.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
