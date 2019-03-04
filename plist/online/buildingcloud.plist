@@ -25,6 +25,7 @@
 			<key>url</key>
 			<string>http://223.105.4.92:18080/ibcp/buildingcloud_ios/buildingcloud.ipa</string>
                 </dict>
+	</array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
