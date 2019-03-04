@@ -13,18 +13,6 @@
 			<key>url</key>
 			<string>http://223.105.4.92:18080/ibcp/buildingcloud_ios/buildingcloud.jpg</string>
 		</dict>
-		<dict>
-			<key>kind</key>
-			<string>full-size-image</string>
-			<key>url</key>
-			<string>http://223.105.4.92:18080/ibcp/buildingcloud_ios/buildingcloud.jpg</string>
-		</dict>
-                <dict>
-			<key>kind</key>
-			<string>software-package</string>
-			<key>url</key>
-			<string>http://223.105.4.92:18080/ibcp/buildingcloud_ios/buildingcloud.ipa</string>
-                </dict>
 	</array>
             <key>metadata</key>
             <dict>
