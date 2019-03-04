@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.cmss.buildingcloud</string>
+                <string>com.cmss.buildingcloud.product</string>
                 <key>bundle-version</key>
                 <string>2.3.2</string>
                 <key>kind</key>
